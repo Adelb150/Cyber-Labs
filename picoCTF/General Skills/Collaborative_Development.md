@@ -12,7 +12,11 @@ My team has been working very hard on new features for our flag printing program
 4. Moved to first git branch with "git checkout", Found "picoCTF{t3@mw0rk_" in this python version.
 5. Moved to second git branch, found "m@k3s_th3_dr3@m_"
 6. Moved to third git branch, found "w0rk_7ae8dd33}"
-7. Submitted final flag complete, picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}
+<details>
+  <summary>Given flag after combining answers</summary>
+  
+  >!picoCTF{t3@mw0rk_m@k3s_th3_dr3@m_w0rk_7ae8dd33}
+</details> 
 
 ## Tools Used
 - git branch -a
