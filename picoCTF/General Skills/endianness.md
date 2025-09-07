@@ -12,7 +12,12 @@ Know of little and big endian?
 4. Ran code, received word: rapwf
 5. Converted rapwf to hex, given 72 61 70 77 66
 6. This will be our big endian represenaion, while little is the opposite -> 66 77 70 61 72
-7. Given flag --> >!picoCTF{3ndi4n_sw4p_su33ess_28329f0a}!<
+<details>
+  <summary>Given flag after entering answers</summary>
+  
+  >!picoCTF{3ndi4n_sw4p_su33ess_28329f0a}
+</details> 
+
 
 ## Tools Used
 - ASCII conversion to hex
