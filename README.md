@@ -1,4 +1,4 @@
-This repo will contain all the CTFs I have done and what I learned from each one.
+This repo will contain all the CTFs I have done and what I learned from each one. (Note that I had begun CTF's a month before creating this repo, but it's still an accurate trace of my development and progress)
 
 
 Current setup:
